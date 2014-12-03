@@ -1,7 +1,7 @@
 alllist.sql.bz2 including the list of all jars has 160w+ records with the format of 
-mysql sql file which is got from maven repository until 2014-10-22, below is a sample(more details in alllist.png)
+mysql sql file which is got from maven repository until 2014-10-22, below is a sample
+<img src="http://www.findmaven.net/img/data/alllist.png"/>
 
-this is applied in <a href="http://www.findmaven.net" target="_blank">http://www.findmaven.net</a>
 <table>
                                 <thead>
                                     <tr>
@@ -31,3 +31,6 @@ this is applied in <a href="http://www.findmaven.net" target="_blank">http://www
                                    
                                 </tbody>
                             </table>
+<br/>
+the records are applied in <a href="http://www.findmaven.net" target="_blank">http://www.findmaven.net</a>
+<img src="http://www.findmaven.net/img/intro/en/find.png"/>
