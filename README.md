@@ -33,4 +33,5 @@ mysql sql file which is got from maven repository until 2014-10-22, below is a s
                             </table>
 <br/>
 the records are applied in <a href="http://www.findmaven.net" target="_blank">http://www.findmaven.net</a>
-<img src="http://www.findmaven.net/img/intro/en/find.png"/>
+<img src="http://www.findmaven.net/img/1.png"/>
+<img src="http://www.findmaven.net/img/2.png"/>
