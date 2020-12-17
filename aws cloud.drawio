@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T09:57:17.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pC8b7Pc3l_Gjr7iDmHg4" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:00:17.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OujN37fDNiBp0sT-7Dvr" version="14.0.4" type="github">
   <diagram id="bIFuc6_pQIDev2zaLWd9" name="Page-1">
     <mxGraphModel dx="1773" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,14 +16,8 @@
         <mxCell id="MVyQ48nf2JYBs-kyZYLc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="210" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MVyQ48nf2JYBs-kyZYLc-7" value="离线集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="276" y="80" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MVyQ48nf2JYBs-kyZYLc-8" value="实时集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="580" y="80" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MVyQ48nf2JYBs-kyZYLc-9" value="aws cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="364" y="40" width="140" height="20" as="geometry" />
+        <mxCell id="MVyQ48nf2JYBs-kyZYLc-9" value="AWS混合架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="266" y="70" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MVyQ48nf2JYBs-kyZYLc-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,7 +94,7 @@
         <mxCell id="9vZHtkDLG-em7Fjse6H4-7" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="152" y="115" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9vZHtkDLG-em7Fjse6H4-8" value="统一用数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="9vZHtkDLG-em7Fjse6H4-8" value="hue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="153" y="162" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
