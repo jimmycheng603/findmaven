@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T10:00:17.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OujN37fDNiBp0sT-7Dvr" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:00:41.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="j4deDT7KU2C3uzQif_IT" version="14.0.4" type="github">
   <diagram id="bIFuc6_pQIDev2zaLWd9" name="Page-1">
     <mxGraphModel dx="1773" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="MVyQ48nf2JYBs-kyZYLc-31" value="http接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="550" y="115" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MVyQ48nf2JYBs-kyZYLc-39" value="hive元数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MVyQ48nf2JYBs-kyZYLc-39" value="cdh hive元数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="390" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9vZHtkDLG-em7Fjse6H4-1" value="AWS EMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="9vZHtkDLG-em7Fjse6H4-2" value="AWS EMR&lt;br&gt;chive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9vZHtkDLG-em7Fjse6H4-3" value="hive元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9vZHtkDLG-em7Fjse6H4-3" value="emr hive元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9vZHtkDLG-em7Fjse6H4-4" value="AWS EMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
