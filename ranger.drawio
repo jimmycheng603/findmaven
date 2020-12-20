@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T15:06:03.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dnDUNOT-BuAGKDc4gwlb" version="14.0.4" type="github"><diagram id="zX0LKrRPOxZzMG7xesd7" name="Page-1">3Zhdk5owFIZ/DZedAYKol121u9uO0531otepOULGkDgxrtpf30NJVAjutDNVmL1R8ibk4zkvOYGATIrDo6abfK4YiCAO2SEg0yCOx0mKv6VwrIQkHVdCpjmrpOgsLPgvsGJo1R1nsK01NEoJwzd1camkhKWpaVRrta83WylRH3VDM/CExZIKX/3BmckrdRQPz/oT8Cx3I0dufQV1je1Ktjllan8hkVlAJlopU10VhwmIkp3jUt335UrtaWIapPmbG77q4c9crFg4P8jp+vl5NJ1++2R7eaNiZxdsJ2uOjoBWO8mg7CQMyMM+5wYWG7osa/cYctRyUwgsRXjpT8qNANrA4UKyk3wEVYDRR2ziaokF5hzjyvsz/yixWn7JPrQitTHPTn2fseCFJfMPlOL+USKj3lEiHqXZ/BWF7xuQgiGDrpk1nZWGPrM0bmFGBjdClnjInvgbLEDjot7zWHQfXknDY4MWj7Xxim9lsVG7xRqccHmmDmNrtFrDRAmlUZFKYsuHFReiIVHBM4nFJUID1B9KWByzwWdbUXDGymFa6df9/D8CMIrrAYj8ALQ94zfj78a/CMCLhq1RnXuVjPvm1aiHWSONepc1Ij9tIAK97txRp0zQH0f56eKVygw3qjicg6H4HGro3GPNLDto4XbfLBsNrnMr8y3+vYhdxmXnnvMy7rhzzw2vs3Nbf1/oeTmge3r+geVEz+5yfYHnbXfdwxt78D70aS9pvvh2fdqL/dPehw5Amt4tAFg8f/n5U3fx+YzMfgM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-20T06:25:22.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pKzr0P8BEKxf2UmisI9e" version="14.0.4" type="github">
+  <diagram id="zX0LKrRPOxZzMG7xesd7" name="Page-1">
+    <mxGraphModel dx="946" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="430" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="430" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-3" value="EMR Openldap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="600" width="620" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-4" value="HiveServer2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-8" value="EMR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="182" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-10" value="Presto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="430" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-13" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-14" value="Ranger Metastore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="550" width="620" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-15" value="Ranger Hive Plugin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-17" value="Ranger Presto Plugin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-18" value="Ranger Spark Plugin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-19" value="EMR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr7bhlfd0MxnDkII8DDK-20" value="EMR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
