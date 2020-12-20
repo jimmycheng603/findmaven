@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T06:25:57.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DtB_KyiXcyYS4yjZxx-y" version="14.0.4" type="github"><diagram id="zX0LKrRPOxZzMG7xesd7" name="Page-1">ddGxDoMgEADQr2FXMLbO1talk0NnIlchQc8gjbZfXw1SS2wXcjwOjgPC8na6GN7LKwrQhEZiIuxEKM2SdB4XeDpI0sxBY5RwFG9QqResGK36UAKGINEiaqv6EGvsOqhtYNwYHMO0O+qwas8b2EFVc73XmxJWOj3Sw+YlqEb6yrHvr+U+ee1kkFzg+EWsICw3iNZF7ZSDXt7Ov4vbd/6z+rmYgc7+2DAH29nzJPggVrwB</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-20T06:47:15.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i0aISZ3Sl67tY9srEhPr" version="14.0.4" type="github">
+  <diagram id="zX0LKrRPOxZzMG7xesd7" name="Page-1">
+    <mxGraphModel dx="946" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PPZOlWegqlnyFaElGjyg-6" value="敏感字段发现" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-1" value="Presto增量扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-2" value="Presto全量扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-3" value="数据湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="290" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-4" value="Ranger" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-14">
+          <mxGeometry width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-12" value="Ranger Mask Restful API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-14">
+          <mxGeometry x="35" y="10" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-13" value="Ranger Metastore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-14">
+          <mxGeometry x="210" y="10" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="371" y="179" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-9" value="EMR" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-15">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-10" value="HiveServer2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-15">
+          <mxGeometry x="20" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-11" value="Ranger Hive Plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-15">
+          <mxGeometry x="20" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="178" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-7" value="EMR" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-16">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-5" value="HiveServer2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-16">
+          <mxGeometry x="20" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPZOlWegqlnyFaElGjyg-8" value="Ranger Hive Plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PPZOlWegqlnyFaElGjyg-16">
+          <mxGeometry x="20" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
