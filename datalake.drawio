@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T06:56:10.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="UNWqgzT6H84ri06Ob56t" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:58:03.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="v9v9zqKFwgwf05KWc1lK" version="14.1.9" type="github">
   <diagram id="jwJnwgBdLn-p7Ej8F0kH" name="Page-1">
     <mxGraphModel dx="1773" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-35" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470" y="112" width="110" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-36" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-35" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-36" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-35" vertex="1">
           <mxGeometry y="28" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-37" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-35" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="629" y="112" width="110" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-40" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-39" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-40" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-39" vertex="1">
           <mxGeometry y="28" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-41" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-39" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-45" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470" y="339" width="110" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-46" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-45" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-46" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-45" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-47" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-45" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-49" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="628" y="339" width="110" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-50" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-49" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-50" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-49" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-51" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-49" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="111" width="110" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-4" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-12" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-4" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-12" vertex="1">
           <mxGeometry y="28" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-5" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-12" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="269" y="111" width="110" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-14" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-13" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-14" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-13" vertex="1">
           <mxGeometry y="28" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-15" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-13" vertex="1">
@@ -130,7 +130,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="338" width="110" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-19" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-23" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-19" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-23" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-20" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-23" vertex="1">
@@ -142,7 +142,7 @@
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-24" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="266" y="338" width="110" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-25" value="Gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-24" vertex="1">
+        <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-25" value="Gateway&lt;br&gt;(Airflow Worker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-24" vertex="1">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lM-Ca0Ui1ZtqQbaLC1SC-26" value="Hadoop" style="rounded=0;whiteSpace=wrap;html=1;" parent="lM-Ca0Ui1ZtqQbaLC1SC-24" vertex="1">
@@ -175,12 +175,6 @@
             <mxPoint x="70" y="141.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SI8rQck0WAs0Pnb3pVIm-5" value="sqoop抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="91" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SI8rQck0WAs0Pnb3pVIm-7" value="flume抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="190" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SI8rQck0WAs0Pnb3pVIm-10" value="日志数据KAFKA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-94" y="199" width="80" height="60" as="geometry" />
         </mxCell>
@@ -199,19 +193,13 @@
             <mxPoint x="70" y="317.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bmbr7X59xY-x1UzUpdiO-2" value="spark抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Bmbr7X59xY-x1UzUpdiO-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="400.5" as="sourcePoint" />
             <mxPoint x="70" y="400.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bmbr7X59xY-x1UzUpdiO-4" value="DTS&lt;br&gt;同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="369" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmbr7X59xY-x1UzUpdiO-5" value="airflow master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bmbr7X59xY-x1UzUpdiO-5" value="Airflow Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="80" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
