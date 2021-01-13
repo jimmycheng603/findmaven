@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T14:29:46.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DZbefue3gIGatVEtJ4pq" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:54:52.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cA8yFB1gPQWSFVinjKTp" version="14.1.9" type="github">
   <diagram id="jwJnwgBdLn-p7Ej8F0kH" name="Page-1">
-    <mxGraphModel dx="2893" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,21 +165,21 @@
         </mxCell>
         <mxCell id="SI8rQck0WAs0Pnb3pVIm-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="351.5" as="sourcePoint" />
-            <mxPoint x="70" y="351.5" as="targetPoint" />
+            <mxPoint x="30" y="228.5" as="sourcePoint" />
+            <mxPoint x="70" y="228.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SI8rQck0WAs0Pnb3pVIm-4" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="190" as="sourcePoint" />
-            <mxPoint x="70" y="190" as="targetPoint" />
+            <mxPoint x="30" y="141.5" as="sourcePoint" />
+            <mxPoint x="70" y="141.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SI8rQck0WAs0Pnb3pVIm-5" value="抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="145" width="40" height="20" as="geometry" />
+        <mxCell id="SI8rQck0WAs0Pnb3pVIm-5" value="sqoop抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="91" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SI8rQck0WAs0Pnb3pVIm-7" value="抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="310" width="40" height="20" as="geometry" />
+        <mxCell id="SI8rQck0WAs0Pnb3pVIm-7" value="flume抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SI8rQck0WAs0Pnb3pVIm-10" value="日志数据KAFKA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-94" y="199" width="80" height="60" as="geometry" />
@@ -187,11 +187,29 @@
         <mxCell id="SI8rQck0WAs0Pnb3pVIm-11" value="业务RDS BINLOG" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-95" y="371" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6rCLylAu7tvwqLtBPnJ-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="Y6rCLylAu7tvwqLtBPnJ-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525" y="247" as="sourcePoint" />
             <mxPoint x="525" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmbr7X59xY-x1UzUpdiO-1" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="317.5" as="sourcePoint" />
+            <mxPoint x="70" y="317.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmbr7X59xY-x1UzUpdiO-2" value="spark抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmbr7X59xY-x1UzUpdiO-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="400.5" as="sourcePoint" />
+            <mxPoint x="70" y="400.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmbr7X59xY-x1UzUpdiO-4" value="DTS&lt;br&gt;同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="369" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
