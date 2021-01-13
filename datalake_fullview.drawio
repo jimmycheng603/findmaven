@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T02:52:45.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Dus-E5GahGoYTkIbgmQA" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:52:50.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oKUSaUQF2UBNmsq3Lb1p" version="14.1.9" type="github">
   <diagram id="hJwrMbKoRCgH0E1bqEPB" name="Page-1">
     <mxGraphModel dx="946" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,106 @@
           <mxGeometry x="220" y="60" width="660" height="420" as="geometry" />
         </mxCell>
         <mxCell id="VdugXz_NpYzOVKXepFqS-16" value="还呗大数据VPC&lt;br&gt;（10.1.0.0/16）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="540" y="24" width="90" height="20" as="geometry" />
+          <mxGeometry x="519" y="26" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdugXz_NpYzOVKXepFqS-3" target="VdugXz_NpYzOVKXepFqS-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="230" as="sourcePoint" />
+            <mxPoint x="200" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="220" />
+              <mxPoint x="200" y="200" />
+              <mxPoint x="190" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="VdugXz_NpYzOVKXepFqS-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149" y="118.77" as="sourcePoint" />
+            <mxPoint x="279" y="139.77" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="199" y="88.77" />
+              <mxPoint x="189" y="38.77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="133" width="90" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-20" value="etlx抽数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-29">
+          <mxGeometry x="20" y="64" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-25" value="" style="group" vertex="1" connectable="0" parent="VdugXz_NpYzOVKXepFqS-29">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-18" value="gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-25">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-19" value="hadoop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-25">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="130" width="90" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-31" value="核心dw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-30">
+          <mxGeometry x="20" y="66" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-32" value="" style="group" vertex="1" connectable="0" parent="VdugXz_NpYzOVKXepFqS-30">
+          <mxGeometry y="2" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-33" value="gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-32">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-34" value="hadoop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-32">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="130" width="90" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-36" value="市场小时报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-35">
+          <mxGeometry x="10" y="66" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-37" value="" style="group" vertex="1" connectable="0" parent="VdugXz_NpYzOVKXepFqS-35">
+          <mxGeometry y="2" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-38" value="gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-37">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-39" value="hadoop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-37">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="250.5" width="90" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-41" value="北斗efuel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-40">
+          <mxGeometry x="17" y="64" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-42" value="" style="group" vertex="1" connectable="0" parent="VdugXz_NpYzOVKXepFqS-40">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-44" value="hadoop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-42">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-43" value="gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="250" width="110" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-51" value="标签featurehub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-50">
+          <mxGeometry x="-3" y="64" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-52" value="" style="group" vertex="1" connectable="0" parent="VdugXz_NpYzOVKXepFqS-50">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-53" value="hadoop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VdugXz_NpYzOVKXepFqS-52">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdugXz_NpYzOVKXepFqS-54" value="gateway&lt;br&gt;(airflow worker)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
